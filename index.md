@@ -6,7 +6,7 @@ hero:
   name: "Tings"
   text: "Tings 的个人记录"
   tagline: 认真是我们参与这个社会的方式
-  image: /public/images/logo.svg
+  image: /images/logo.svg
   alt: VitePress
   actions:
     - theme: brand

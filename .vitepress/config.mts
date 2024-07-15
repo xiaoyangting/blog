@@ -13,7 +13,7 @@ export default defineConfig({
       // { text: 'Examples', link: '/markdown-examples' }
       { text: '前端', link: '/Web/index' }
     ],
-    logo: "/public/images/logo.svg",
+    logo: "/images/logo.svg",
 
     sidebar: {
       // {
