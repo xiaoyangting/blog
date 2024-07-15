@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Tings",
   description: "tings's presonal record",
   outDir: "docs", //打包输出的目录
-  base: "/notes/", //部署到github pages的路径
+  base: "/blog/", //部署到github pages的路径
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
